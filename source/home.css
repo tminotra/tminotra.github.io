@@ -1,0 +1,27 @@
+p {
+  color: #FFFFFF;
+  text-align: LEFT;
+  margin-right: 400px;
+}
+body{
+	background-color:#659DBD;
+	background-position: center;
+	 background-repeat: no-repeat;
+}
+span
+{
+	font-size: 25px;
+	color: #FFFFFF;
+	font-style: bold;
+}
+h1
+{
+	text-align: center;
+	color: #FBEEC1;
+	font-style: bold;
+}
+ul,a
+{
+	color: #FBEEC1;
+	font-size: 20px;
+}
