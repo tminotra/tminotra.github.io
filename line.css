@@ -1,0 +1,47 @@
+
+#chart {
+    position: relative; /* To allow the tooltip to be positioned relative to the div */
+    display: block;
+    width: 1200px;
+    height: 500px;
+    background-color:#659DBD;
+    margin: 0 auto;
+}
+    .line {
+      fill: none;
+      stroke: black;
+      stroke-width: 1.5px;
+    }
+
+p {
+  color: #FFFFFF;
+  text-align: LEFT;
+  margin-right: 400px;
+}
+body{
+    background-color:#659DBD;
+    background-image: url("bg2.png");
+    background-position: bottom;
+     background-repeat: no-repeat;
+}
+span
+{
+    font-size: 25px;
+    color: #FFFFFF;
+    font-style: bold;
+}
+h1
+{
+    text-align: center;
+    color: #FBEEC1;
+    font-style: bold;
+}
+ul,a
+{
+    color: #FBEEC1;
+    font-size: 20px;
+}
+h4
+{
+    color: #FBEEC1;
+}
